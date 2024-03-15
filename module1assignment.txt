@@ -1,0 +1,26 @@
+1. What is saoftare?
+    Software is set of instruction, data or programs used to oprate computers and excute spacific tasks. Software is a generic term used to refer to application ,script and programs that run ona device.
+    They are three differnt types of software:
+      1. System Software
+      2. Apllication Software
+      3. utility Softare  
+
+
+2. What are the tpes of allpication?
+   Multimedia Software
+   Web Browser
+   Word Processor
+   Presentation software
+   Data Base
+   Grapics Software
+   Poject Managenment Software
+   
+3. What is Programing?
+   Programing is giving a set of instruction to a computer to execute.
+   A computer program consist of code that is executed on a perform particular task.
+
+4. What is python?
+   python is high-leval, genral purpose programming language.
+   python is dynamiclly typed and garbage-collected. it supports multiple programming paradigms,including structured, object-oriented and         
+   functional programming.
+   
